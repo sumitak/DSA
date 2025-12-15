@@ -1,4 +1,4 @@
-package com.leetcode.dsa;
+package com.leetcode.dsa.arraysandstrings;
 
 public class MaxSubArray {
     static void main() {
